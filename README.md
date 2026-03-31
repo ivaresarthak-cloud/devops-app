@@ -1,5 +1,5 @@
-DevOps CI/CD Project
-#Overview
+##DevOps CI/CD Project
+##Overview
 CI/CD pipeline using AWS, Jenkins, Docker, Kubernetes
 ## Tools
 AWS EC2, Jenkins 2.541.3, Docker, Kubernetes (Minikube), GitHub
