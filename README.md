@@ -1,8 +1,10 @@
-##DevOps CI/CD Project
-##Overview
-CI/CD pipeline using AWS, Jenkins, Docker, Kubernetes
+# DevOps CI/CD Project
+
+## OverviewCI/CD pipeline using AWS, Jenkins, Docker, Kubernetes
+
 ## Tools
 AWS EC2, Jenkins 2.541.3, Docker, Kubernetes (Minikube), GitHub
+
 ## Steps
 1. Created EC2
 2. Installed Jenkins
